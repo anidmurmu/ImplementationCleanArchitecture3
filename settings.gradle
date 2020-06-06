@@ -1,0 +1,5 @@
+rootProject.name='ImplementationCleanArchitecture'
+include ':app'
+include ':domain'
+include ':data'
+include ':usecase'
