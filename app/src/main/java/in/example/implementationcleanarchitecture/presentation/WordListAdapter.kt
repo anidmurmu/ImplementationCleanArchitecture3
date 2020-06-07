@@ -17,8 +17,8 @@ package `in`.example.implementationcleanarchitecture.presentation
  */
 
 
+import `in`.example.data.db.Word
 import `in`.example.implementationcleanarchitecture.R
-import `in`.example.implementationcleanarchitecture.framework.db.Word
 import android.content.Context
 import android.view.LayoutInflater
 import android.view.View

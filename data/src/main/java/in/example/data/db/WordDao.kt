@@ -1,4 +1,4 @@
-package `in`.example.implementationcleanarchitecture.framework.db
+package `in`.example.data.db
 
 /*
  * Copyright (C) 2017 Google Inc.
@@ -17,6 +17,7 @@ package `in`.example.implementationcleanarchitecture.framework.db
  */
 
 
+import `in`.example.data.db.Word
 import androidx.lifecycle.LiveData;
 import androidx.room.Dao;
 import androidx.room.Insert;

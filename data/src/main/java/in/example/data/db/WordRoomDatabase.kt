@@ -1,4 +1,4 @@
-package `in`.example.implementationcleanarchitecture.framework.db
+package `in`.example.data.db
 
 /*
  * Copyright (C) 2017 Google Inc.

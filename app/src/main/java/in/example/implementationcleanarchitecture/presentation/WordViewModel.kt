@@ -17,9 +17,9 @@ package `in`.example.implementationcleanarchitecture.presentation
  */
 
 
+import `in`.example.data.db.Word
+import `in`.example.data.db.WordRoomDatabase
 import `in`.example.implementationcleanarchitecture.WordRepository
-import `in`.example.implementationcleanarchitecture.framework.db.Word
-import `in`.example.implementationcleanarchitecture.framework.db.WordRoomDatabase
 import android.app.Application
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel

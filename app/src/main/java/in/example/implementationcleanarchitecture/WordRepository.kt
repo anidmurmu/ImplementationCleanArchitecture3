@@ -16,8 +16,8 @@ package `in`.example.implementationcleanarchitecture
  * limitations under the License.
  */
 
-import `in`.example.implementationcleanarchitecture.framework.db.Word
-import `in`.example.implementationcleanarchitecture.framework.db.WordDao
+import `in`.example.data.db.Word
+import `in`.example.data.db.WordDao
 import androidx.annotation.WorkerThread
 import androidx.lifecycle.LiveData
 
